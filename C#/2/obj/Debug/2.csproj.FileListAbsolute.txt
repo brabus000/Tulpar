@@ -1,0 +1,6 @@
+Z:\2\2\bin\Debug\2.exe.config
+Z:\2\2\bin\Debug\2.exe
+Z:\2\2\bin\Debug\2.pdb
+Z:\2\2\obj\Debug\2.csprojAssemblyReference.cache
+Z:\2\2\obj\Debug\2.exe
+Z:\2\2\obj\Debug\2.pdb
